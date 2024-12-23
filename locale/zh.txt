@@ -1,0 +1,187 @@
+#: locale=zh
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_E14C560D_F39E_43F6_41E4_B3DB59BBCEFD.url = https://app.chatbit.co/iframe/a593ec85-0023-49e4-ae8e-6f61a9c3a1c7
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_E3B0C9BC_F267_C016_41C6_3DC0BB6D1404.text = 中正樓
+HotspotPanoramaOverlayTextImage_E252E81D_F26D_C016_41BA_950C49F87077.text = 中正樓
+HotspotPanoramaOverlayTextImage_EB07C27A_F262_C01D_41EB_239ADE8145C5.text = 中正樓
+HotspotPanoramaOverlayTextImage_E5DD51A9_F3EE_C03E_41D4_C2E5623108A6.text = 中正樓
+HotspotPanoramaOverlayTextImage_E6AEC609_F3AD_C3FE_41D3_1BBE9070C981.text = 中正樓
+HotspotPanoramaOverlayTextImage_FA15EAE5_EFEC_1B02_41EA_35082FAAC597.text = 勤樸樓
+HotspotPanoramaOverlayTextImage_EBCEB01A_F262_4012_41EB_5548B6AF4A24.text = 勤樸樓
+HotspotPanoramaOverlayTextImage_EB4CAA79_F3A2_401F_41D1_163F937EB996.text = 勤樸樓
+HotspotPanoramaOverlayTextImage_E26765CE_F2A2_4075_41E2_722601321E8A.text = 勤樸樓
+HotspotPanoramaOverlayTextImage_EB465429_F2BF_C03E_41ED_8C717D181A01.text = 勤樸樓
+HotspotPanoramaOverlayTextImage_E3187CD6_F262_4015_41D4_F18235CF5404.text = 勤樸樓
+HotspotPanoramaOverlayTextImage_F845BAB6_EFE4_1B0E_41E9_0C4D89584F29.text = 勤樸樓
+HotspotPanoramaOverlayTextImage_E2A0415A_F266_4012_41D0_3909E569B6E2.text = 勤樸樓
+HotspotPanoramaOverlayTextImage_E26FE9BF_F2A2_4012_41ED_C165D41D6143.text = 圖書館
+HotspotPanoramaOverlayTextImage_F9865475_EFEC_EF02_41D1_61AAE0DD8147.text = 圖書館
+HotspotPanoramaOverlayTextImage_EBD8CC6C_F2A2_C035_41D2_5A42377A906F.text = 圖書館
+HotspotPanoramaOverlayTextImage_E2DD7F44_F262_C075_41CC_F8AF9F02E4D3.text = 圖書館
+HotspotPanoramaOverlayTextImage_F8C58D45_EFE4_1902_41E3_A0C21C1CA447.text = 圖書館
+HotspotPanoramaOverlayTextImage_E213010A_F262_41FD_41D9_722236AE1982.text = 圖書館
+HotspotPanoramaOverlayTextImage_E4B506A7_F3E6_4033_41C1_40BBE594E194.text = 圖書館
+HotspotPanoramaOverlayTextImage_E4BE55E4_F3E2_4035_41D5_C5BA08FDF495.text = 圖書館
+HotspotPanoramaOverlayTextImage_E33751A0_F262_402E_41E4_8A001DAD3905.text = 忠毅樓
+HotspotPanoramaOverlayTextImage_F89D2D96_EFE4_390E_41E8_15D8ACF3E44D.text = 忠毅樓
+HotspotPanoramaOverlayTextImage_E4A79C96_F3E5_C015_41D5_96CB13DB9771.text = 忠毅樓
+HotspotPanoramaOverlayTextImage_E28DA1BE_F262_4012_41D8_960B71055952.text = 教育樓
+HotspotPanoramaOverlayTextImage_F7F929A6_EFE4_190F_41C1_D1646E7911A1.text = 教育樓
+HotspotPanoramaOverlayTextImage_E3DF4093_F262_4012_41DE_877F30A6A65B.text = 教育樓
+HotspotPanoramaOverlayTextImage_EB7ABAA0_F2BE_402D_41D7_5868E920A857.text = 教育樓
+HotspotPanoramaOverlayTextImage_E5FD8916_F266_4012_41E5_83D33820BF9B.text = 教育樓
+HotspotPanoramaOverlayTextImage_E3D82623_F2AE_4033_41C1_25EEF9123BF8.text = 教育樓
+HotspotPanoramaOverlayTextImage_E43BC8DD_F3A2_4017_41E6_AA5F44A181BE.text = 教育樓
+HotspotPanoramaOverlayTextImage_F995F2AA_EFEF_EB06_41DF_2E65B7892861.text = 教育樓
+HotspotPanoramaOverlayTextImage_E45C885A_F3E3_C012_41DF_7BEBB584ABE6.text = 樂群樓
+HotspotPanoramaOverlayTextImage_E4782156_F3E2_4015_41D7_6D236BADC9CE.text = 樂群樓
+HotspotPanoramaOverlayTextImage_E2A4B0C8_F263_C07E_41ED_2905F4DAB76F.text = 求真樓
+HotspotPanoramaOverlayTextImage_E2D96C3E_F262_4012_41E7_B7CC9A438916.text = 求真樓
+HotspotPanoramaOverlayTextImage_E26E3826_F2A2_4035_41E4_A89915D9E723.text = 求真樓
+HotspotPanoramaOverlayTextImage_E47C8054_F3E2_4015_41E6_19EC2DBCFD20.text = 求真樓
+HotspotPanoramaOverlayTextImage_EBE1F087_F2A3_C0F2_41C8_5ABD4A9C63A3.text = 求真樓
+HotspotPanoramaOverlayTextImage_F830EA2A_EFDC_1B06_41D7_EA01D8BE831D.text = 求真樓
+HotspotPanoramaOverlayTextImage_E2526E50_F2A2_C06E_41E1_8BC1CECA6C3D.text = 求真樓
+HotspotPanoramaOverlayTextImage_EB367DF8_F3E2_401D_41DA_E6445DCE15EE.text = 求真樓
+HotspotPanoramaOverlayTextImage_E204B1AC_F29E_4036_41ED_0CB12E351C77.text = 科學樓
+HotspotPanoramaOverlayTextImage_FE184B86_EFE4_190E_41DB_38241CABC934.text = 科學樓
+HotspotPanoramaOverlayTextImage_E2B24D6F_F2A2_4033_41D4_E8496EB1D838.text = 科學樓
+HotspotPanoramaOverlayTextImage_EB54C181_F3E6_C0EE_418D_42D4325C6880.text = 美術樓
+HotspotPanoramaOverlayTextImage_E4E7575E_F3A6_4015_4192_3F67C7E12491.text = 美術樓
+HotspotPanoramaOverlayTextImage_E39D7013_F27E_C013_41E5_9644A9CDF2DE.text = 美術樓
+HotspotPanoramaOverlayTextImage_E420954D_F2BE_4077_41CA_5837F0E7030B.text = 美術樓
+HotspotPanoramaOverlayTextImage_F94E29D9_EFE4_3902_41DD_18609AA6604D.text = 莊敬苑
+HotspotPanoramaOverlayTextImage_EB00E1F6_F266_4015_41E0_EF7E4C6DE645.text = 行政樓
+HotspotPanoramaOverlayTextImage_E2FBF9FA_F262_C01D_41BB_8F7BA991BAB3.text = 行政樓
+HotspotPanoramaOverlayTextImage_E412734A_F266_407D_41E7_ABB5F102CA0E.text = 行政樓
+HotspotPanoramaOverlayTextImage_E2147650_F2A6_406D_415B_DC4FC3DEF4C8.text = 行政樓
+HotspotPanoramaOverlayTextImage_FA1C1149_EFEC_E902_41E6_6A81BFA217A3.text = 行政樓
+HotspotPanoramaOverlayTextImage_E42A0D4C_F2A2_C075_41EA_239DC1AC5279.text = 行政樓
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_D8A56D27_F5EE_4032_41C5_BECED0AB6783.url = media/map_E3D970EB_EFDC_2706_41E4_85B69867AF0C_zh_0.jpg
+imlevel_D8A53D27_F5EE_4032_41EB_0839CED3B8DA.url = media/map_E3D970EB_EFDC_2706_41E4_85B69867AF0C_zh_1.jpg
+imlevel_D8A52D27_F5EE_4032_41C0_787921E1EA88.url = media/map_E3D970EB_EFDC_2706_41E4_85B69867AF0C_zh_2.jpg
+imlevel_D8A50D27_F5EE_4032_41A9_EB6A43614FB3.url = media/map_E3D970EB_EFDC_2706_41E4_85B69867AF0C_zh_3.jpg
+imlevel_D8B88DBE_F5EE_4015_41DA_75FCA7354D54.url = media/map_E476C27A_EFDC_2B06_41C7_02C0ADE812C1_zh_0.jpg
+imlevel_D8B86DBF_F5EE_4013_41D0_AC17201812DB.url = media/map_E476C27A_EFDC_2B06_41C7_02C0ADE812C1_zh_1.jpg
+imlevel_D8B85DBF_F5EE_4013_41C4_BAFA58133DAA.url = media/map_E476C27A_EFDC_2B06_41C7_02C0ADE812C1_zh_2.jpg
+imlevel_D8B84DBF_F5EE_4013_41E6_7C723AF8012A.url = media/map_E476C27A_EFDC_2B06_41C7_02C0ADE812C1_zh_3.jpg
+imlevel_D8AE9C82_F5EE_40ED_41EE_605F21A065E4.url = media/map_E8FB94C1_F2A7_C06F_41E4_A1B1DEB21C9F_zh_0.jpg
+imlevel_D8AE8C83_F5EE_40F3_41E0_6E3D1C19E246.url = media/map_E8FB94C1_F2A7_C06F_41E4_A1B1DEB21C9F_zh_1.jpg
+imlevel_D8AE6C83_F5EE_40F3_41D4_A009E59C4287.url = media/map_E8FB94C1_F2A7_C06F_41E4_A1B1DEB21C9F_zh_2.jpg
+imlevel_D8AE4C83_F5EE_40F3_41CA_8802D7063AD7.url = media/map_E8FB94C1_F2A7_C06F_41E4_A1B1DEB21C9F_zh_3.jpg
+imlevel_E18C7A98_F39F_C01D_41E3_3D0E984473BE.url = media/panorama_BF65FFF2_AEB7_4755_41A1_8377962CE519_HS_6pmwjojw_zh.png
+imlevel_E0A76A52_F39F_C012_41EA_4B5EE76659E6.url = media/panorama_BF65FFF2_AEB7_4755_41A1_8377962CE519_HS_iz8knwtf_zh.png
+imlevel_E19F0ADC_F39F_C015_41E6_BEA299F4F6AB.url = media/panorama_BF65FFF2_AEB7_4755_41A1_8377962CE519_HS_j9l1aerg_zh.png
+imlevel_E19CFAC7_F39F_C073_41CF_2B5BBE3CD971.url = media/panorama_BF65FFF2_AEB7_4755_41A1_8377962CE519_HS_mk9g88wi_zh.png
+imlevel_E19C5AF4_F39F_C016_41E2_BDA184C6CEC3.url = media/panorama_BF65FFF2_AEB7_4755_41A1_8377962CE519_HS_rhgzj2co_zh.png
+imlevel_E193FAAE_F39F_C035_41E7_27302D546E2B.url = media/panorama_BF65FFF2_AEB7_4755_41A1_8377962CE519_HS_z2k3ap6r_zh.png
+imlevel_E7F9DCD3_F3A2_4013_41E2_F4463C3A5750.url = media/panorama_E8930B3B_E32F_4D26_41D1_CA3CCC685763_HS_63htf7zr_zh.png
+imlevel_E7FB6CAA_F3A2_403D_41D4_E6CED0410202.url = media/panorama_E8930B3B_E32F_4D26_41D1_CA3CCC685763_HS_9o8s1l34_zh.png
+imlevel_E7FAFC6E_F3A2_4032_41E9_4162BF576DBD.url = media/panorama_E8930B3B_E32F_4D26_41D1_CA3CCC685763_HS_9tz2bg9z_zh.png
+imlevel_E7FA7C80_F3A2_40EE_41E6_EDA01F6F38A0.url = media/panorama_E8930B3B_E32F_4D26_41D1_CA3CCC685763_HS_bxx5e3kk_zh.png
+imlevel_E7F80CBD_F3A2_4017_41A6_A6AF995214AA.url = media/panorama_E8930B3B_E32F_4D26_41D1_CA3CCC685763_HS_jqtvm3fy_zh.png
+imlevel_E7FABC58_F3A2_401E_41E4_BE981D26441A.url = media/panorama_E8930B3B_E32F_4D26_41D1_CA3CCC685763_HS_ttn52fvh_zh.png
+imlevel_E7F8DC97_F3A2_4013_41B7_80C3EC01EC24.url = media/panorama_E8930B3B_E32F_4D26_41D1_CA3CCC685763_HS_vccn1dfw_zh.png
+imlevel_E19F1B1C_F39F_C016_41E6_29F1004C3BAB.url = media/panorama_E8938567_E32F_452E_41E5_4656254D4446_HS_37tbyck1_zh.png
+imlevel_E19FFB41_F39F_C06F_41E1_29A2FDD6D65E.url = media/panorama_E8938567_E32F_452E_41E5_4656254D4446_HS_q6ro6hse_zh.png
+imlevel_E19F4B2D_F39F_C036_41EC_6C37345A84F5.url = media/panorama_E8938567_E32F_452E_41E5_4656254D4446_HS_sv12kakt_zh.png
+imlevel_E19EBB66_F39F_C035_41CE_478464D60A38.url = media/panorama_E8938567_E32F_452E_41E5_4656254D4446_HS_ued7ju0j_zh.png
+imlevel_E19E1B52_F39F_C06D_41E6_D39CDE2D739A.url = media/panorama_E8938567_E32F_452E_41E5_4656254D4446_HS_wg3sz17h_zh.png
+imlevel_E19C8B0A_F39F_C1F2_41D9_FDF9B1F0B04C.url = media/panorama_E8938567_E32F_452E_41E5_4656254D4446_HS_xf0zrl61_zh.png
+imlevel_E1A5BC57_F39F_C013_41ED_AF6CF0D86564.url = media/panorama_E8EE817A_E32F_7D26_41AE_901CE8096FDA_HS_17mu1noo_zh.png
+imlevel_E1A71C5F_F39F_C013_41E7_482B2E1AAE41.url = media/panorama_E8EE817A_E32F_7D26_41AE_901CE8096FDA_HS_2jfmtxw4_zh.png
+imlevel_E1A22C05_F39F_C7F7_41DB_5D24C571A722.url = media/panorama_E8EE817A_E32F_7D26_41AE_901CE8096FDA_HS_30d2smcb_zh.png
+imlevel_E1A38BF8_F39F_C01D_41E5_5B34364718DC.url = media/panorama_E8EE817A_E32F_7D26_41AE_901CE8096FDA_HS_4xy3c2nq_zh.png
+imlevel_E1A24C1C_F39F_C015_41C5_19E9532BF28C.url = media/panorama_E8EE817A_E32F_7D26_41AE_901CE8096FDA_HS_7y5kpbsc_zh.png
+imlevel_E9E4CC2B_F2A2_C033_41E8_B889DB3AEADF.url = media/panorama_E8EE817A_E32F_7D26_41AE_901CE8096FDA_HS_ev3acff8_zh.png
+imlevel_E9E4DC15_F2A2_C017_41DD_A36214AB85B7.url = media/panorama_E8EE817A_E32F_7D26_41AE_901CE8096FDA_HS_trig2p6m_zh.png
+imlevel_E9EE4CE6_F2A2_C035_41CA_C75BC2536D57.url = media/panorama_EF2947FD_E334_C522_41E7_3F6A7D94D5F4_HS_2ssgusz4_zh.png
+imlevel_E9E11CC3_F2A2_C072_41E5_6914EE0C2CCF.url = media/panorama_EF2947FD_E334_C522_41E7_3F6A7D94D5F4_HS_95e2gn3t_zh.png
+imlevel_E9E14CB2_F2A2_C012_41E1_D2097E648E5A.url = media/panorama_EF2947FD_E334_C522_41E7_3F6A7D94D5F4_HS_e2rtbimx_zh.png
+imlevel_E9ECCD0D_F2A2_C1F7_41C7_FB1E7A0A5F24.url = media/panorama_EF2947FD_E334_C522_41E7_3F6A7D94D5F4_HS_jcegrydq_zh.png
+imlevel_E9EEECD5_F2A2_C017_41E5_EBE7A093618B.url = media/panorama_EF2947FD_E334_C522_41E7_3F6A7D94D5F4_HS_ogruvn8w_zh.png
+imlevel_E9EF0CFB_F2A2_C013_41DA_712633CE5648.url = media/panorama_EF2947FD_E334_C522_41E7_3F6A7D94D5F4_HS_olum0l3h_zh.png
+imlevel_E9EDBD14_F2A2_C015_41D1_15F9161B4403.url = media/panorama_EF2947FD_E334_C522_41E7_3F6A7D94D5F4_HS_rdqo0r98_zh.png
+imlevel_E9ED2D2A_F2A2_C03D_41AC_98200D69F513.url = media/panorama_EF2947FD_E334_C522_41E7_3F6A7D94D5F4_HS_v3czlqdl_zh.png
+imlevel_E9EBDD3C_F2A2_C015_41D2_F63530C379B3.url = media/panorama_EF2947FD_E334_C522_41E7_3F6A7D94D5F4_HS_zpzdxqy1_zh.png
+imlevel_E9963DA0_F2A2_C02E_41E4_A696B383343D.url = media/panorama_EF2E6D11_E334_CAE2_41CE_0F2A31E5EB31_HS_09fxy8e9_zh.png
+imlevel_E997ADB7_F2A2_C013_41C4_D004E43E6362.url = media/panorama_EF2E6D11_E334_CAE2_41CE_0F2A31E5EB31_HS_31oeswmq_zh.png
+imlevel_E9966D8E_F2A2_C0F2_41CF_61708A6F2246.url = media/panorama_EF2E6D11_E334_CAE2_41CE_0F2A31E5EB31_HS_7okl95bk_zh.png
+imlevel_E9E93D70_F2A2_C02E_41E5_718F95419045.url = media/panorama_EF2E6D11_E334_CAE2_41CE_0F2A31E5EB31_HS_c4vjlsrt_zh.png
+imlevel_E9E9AD7D_F2A2_C016_41CD_669DA122E39A.url = media/panorama_EF2E6D11_E334_CAE2_41CE_0F2A31E5EB31_HS_gbpbf3h0_zh.png
+imlevel_E9EB7D64_F2A2_C036_41E0_09EE45B2C604.url = media/panorama_EF2E6D11_E334_CAE2_41CE_0F2A31E5EB31_HS_nlh2t700_zh.png
+imlevel_E9EB8D53_F2A2_C012_41D4_423B2AAA7C08.url = media/panorama_EF2E6D11_E334_CAE2_41CE_0F2A31E5EB31_HS_p3fkmsji_zh.png
+imlevel_E9947DC8_F2A2_C07E_41D8_597C6B3AA80E.url = media/panorama_EF2E6D11_E334_CAE2_41CE_0F2A31E5EB31_HS_w4810l6k_zh.png
+imlevel_E993CE2A_F2A2_C03D_41DF_783BBB25D476.url = media/panorama_EF2EF1EB_E334_FD26_41D8_853F8821A06B_HS_10mqwndg_zh.png
+imlevel_E9936E19_F2A2_C01F_41E7_EC297EB1F702.url = media/panorama_EF2EF1EB_E334_FD26_41D8_853F8821A06B_HS_b53y7391_zh.png
+imlevel_E9959DED_F2A2_C037_41E4_3AE8DF7E9E46.url = media/panorama_EF2EF1EB_E334_FD26_41D8_853F8821A06B_HS_hs8y7xs0_zh.png
+imlevel_E9956E00_F2A2_C3EE_41EA_AF0F256CD460.url = media/panorama_EF2EF1EB_E334_FD26_41D8_853F8821A06B_HS_knvn2vkm_zh.png
+imlevel_E994DDDC_F2A2_C015_41C7_8E8C4CD00443.url = media/panorama_EF2EF1EB_E334_FD26_41D8_853F8821A06B_HS_l2l60y1b_zh.png
+imlevel_E991AE3C_F2A2_C015_41EA_9A6C52B9D5D9.url = media/panorama_EF2EF1EB_E334_FD26_41D8_853F8821A06B_HS_zmn3eeto_zh.png
+imlevel_E9E48C33_F2A2_C013_41B1_1B7615720344.url = media/panorama_EF923C19_E334_CAE2_41E5_B218E129E702_HS_2mdsxbuy_zh.png
+imlevel_E9E0ECA0_F2A2_C02E_41E4_A8172DD943DE.url = media/panorama_EF923C19_E334_CAE2_41E5_B218E129E702_HS_ba7pa2k1_zh.png
+imlevel_E9E56C45_F2A2_C077_41EE_3E7E9B609FFF.url = media/panorama_EF923C19_E334_CAE2_41E5_B218E129E702_HS_jqq524il_zh.png
+imlevel_E9E32C8F_F2A2_C0F2_41DA_906FD4E1C231.url = media/panorama_EF923C19_E334_CAE2_41E5_B218E129E702_HS_prqpn99u_zh.png
+imlevel_E9E52C57_F2A2_C013_41B9_B16A17898714.url = media/panorama_EF923C19_E334_CAE2_41E5_B218E129E702_HS_txkhrwt4_zh.png
+imlevel_E9E3BC78_F2A2_C01D_41E7_2176101CFE20.url = media/panorama_EF923C19_E334_CAE2_41E5_B218E129E702_HS_x4lajrof_zh.png
+imlevel_E9E2FC67_F2A2_C033_41EC_BB19BE3FDD99.url = media/panorama_EF923C19_E334_CAE2_41E5_B218E129E702_HS_xvpxrbwf_zh.png
+
+### Title
+panorama_A5364C03_AE93_C892_4183_0BC78F3C9858.label = 2F
+map_E8FB94C1_F2A7_C06F_41E4_A1B1DEB21C9F.label = floorplan
+map_E3D970EB_EFDC_2706_41E4_85B69867AF0C.label = floorplan2
+map_E476C27A_EFDC_2B06_41C7_02C0ADE812C1.label = floorplan3
+panorama_EFA23C68_E32C_CB22_41C7_9C7D89065908.label = stair
+panorama_E8ED0911_E32F_4AE2_41E7_88A49EB17E6B.label = stair2
+panorama_E8935F38_E32F_4522_41E3_4410CD962734.label = stair3
+panorama_BF65FFF2_AEB7_4755_41A1_8377962CE519.label = top1
+panorama_E8938567_E32F_452E_41E5_4656254D4446.label = top2
+panorama_E8930B3B_E32F_4D26_41D1_CA3CCC685763.label = top3
+panorama_E8EE817A_E32F_7D26_41AE_901CE8096FDA.label = top4
+panorama_EF923C19_E334_CAE2_41E5_B218E129E702.label = top5
+panorama_EF2947FD_E334_C522_41E7_3F6A7D94D5F4.label = top6
+panorama_EF2E6D11_E334_CAE2_41CE_0F2A31E5EB31.label = top7
+panorama_EF2EF1EB_E334_FD26_41D8_853F8821A06B.label = top8
+
+## Popup
+
+### Body
+htmlText_D0227DC5_F5A2_4077_41EB_F90550634A9F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">1981年興建完成，建築面積2,398.14平方公尺。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">設置物理、化學、生物等實驗室等，專供自然科學教學使用。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_D22E8B94_F5A5_C016_41E6_BC851D571EB4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">1986年完工使用，樓高五層，原規劃設計作為本校視聽教育中心，五樓為天文館，四樓為教室和攝影棚，三樓為電腦教室，一樓為辦公室和媒體製作室。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">後因本校於2004年成立台語系、英語系，變更為兩系系館。</SPAN></DIV></BODY></HTML></div>
+htmlText_D0E021D1_F5A2_406E_41EA_1BEBCB624720.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">1988年3月興建完工，建築面積5,936.21平方公尺。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">地上五層，地下一層，設有學務處辦公室、衛保組、諮商中心、生輔組；教育系、諮商系、資统所教室、研究室等。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_D61E0658_F265_C01D_41EA_638D3B036096.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">本大樓於1928年完工，為三層樓之簡化哥德式建築，是台灣建築形式從古典邁向現代之重要歷史證據。本建築融合古典與現代美學精神之作品，被台中市政府列為重要古蹟文化。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">大樓內設置校長室、校史源流館、行政部門辦公室、會議室等；三樓為語教系教室和辦公室。</SPAN></DIV></BODY></HTML></div>
+htmlText_D1AF9995_F5BE_4016_41D5_B89AB8DB05EE.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">本校1987年改制為師院後，籌建新式圖書館，於1989年完工使用，總工程費用4,609萬8仟元，地上五層，地下一層，建築面積5,230平方公尺，因規模宏偉、設備齊全，成為當時全國師院中最現代的圖書館。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">圖書館設有電腦檢索區、討論室、期刊區、中外文書庫、多媒體視聽室、多功能活動室等，館藏特色以完整的教育專業圖書著稱，配合本校重視博雅教育，以及在藝文領域的卓越發展，人文藝術相關典藏圖書亦頗為可觀。</SPAN></DIV></BODY></HTML></div>
+htmlText_D1457EC5_F5A6_4077_41E4_60E43D8F5A6D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">求真樓原為三層樓建築，因921地震重創而進行重建，於2004年完工使用，建築面積為26,008.91平方公尺，為地上十層地下兩層之大樓。</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">求真樓為本校最高的建築，建築風格淬取行政大樓外觀，人文典雅的簡化哥德式風格為其特色。除提供180間教師研究室外，並置有大型、中型會議室、音樂廳、專業電腦教室及幼教、區社、資工、數位等系教室、辦公室與計算機與網路中心、師資培育處辦公室。</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_D210BB93_F5A5_C012_41C3_0D71574CDBCE.title = 勤樸樓
+window_D1AE6994_F5BE_4016_41DC_BD4F239D3474.title = 圖書館
+window_D0E2C1D1_F5A2_406E_41ED_2DC070121F57.title = 教育樓
+window_D15B1EC5_F5A6_4077_41DD_A42CF18C82AD.title = 求真樓
+window_D0242DC5_F5A2_4077_41EC_A5F5E98773DD.title = 科學樓
+window_D6201658_F265_C01D_41D3_B7E036950E63.title = 行政樓
+
+## Skin
+
+### Image
+Image_E1A82F5A_F263_C01D_41EA_43A5367A589F.url = skin/Image_E1A82F5A_F263_C01D_41EA_43A5367A589F_zh.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 無標題 1
